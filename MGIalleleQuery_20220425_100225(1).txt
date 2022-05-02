@@ -1,0 +1,36 @@
+MGI Allele ID	Allele Symbol	Allele Name	Chromosome	Synonyms	Allele Type	Allele Attributes	Transmission	Abnormal Phenotypes Reported in these Systems	Human Disease Models	
+MGI:4973916	Adgrl3<Gt(S17-5H1)Sor>	gene trap S17-5H1, Philippe Soriano	5		Gene trapped	Null/knockout, Reporter	Germline	behavior | homeostasis | nervous system	attention deficit hyperactivity disorder DOID:1094	
+MGI:2181436	Camk4<tm1Gsc>	targeted mutation 1, Gunther Schutz	18	CamkIV<loxP>	Targeted	Conditional ready, No functional change	Germline	behavior		
+MGI:4442323	Chrm4<tm2.1Jwe>	targeted mutation 2.1, Jurgen Wess	2		Targeted	Conditional ready, No functional change	Germline	behavior | homeostasis | nervous system		
+MGI:1861634	Clock<m1Jt>	Clock	5	Ck | Clock<delta19> | Clock<mut>	Chemically induced (ENU)	 	 	adipose | behavior | cardiovascular | cellular | digestive/alimentary | endocrine/exocrine | growth/size/body | homeostasis | integument | liver/biliary | nervous system | reproductive	bipolar disorder DOID:3312 | diabetes mellitus DOID:9351 | sleep disorder DOID:535	
+MGI:5527294	Cyfip2<M1N>	mutation 1, National Institutes of Health	11	Cyfip2<6N> | Cyfip2<B6N> | Cyfip2<N>	Spontaneous	 	 	behavior | nervous system		
+MGI:4434196	Cyfip2<tm1a(EUCOMM)Wtsi>	targeted mutation 1a, Wellcome Trust Sanger Institute	11		Targeted	Conditional ready, Null/knockout, Reporter	Germline	behavior | cardiovascular | homeostasis | integument | mortality/aging | nervous system | renal/urinary		
+MGI:3848928	Dlg4<tm2.1Grnt>	targeted mutation 2.1, Seth G N Grant	11	PSD-95<GK>	Targeted	Null/knockout	Germline	behavior | homeostasis | nervous system	autism spectrum disorder DOID:0060041 | Williams-Beuren syndrome DOID:1928	
+MGI:5292350	Drd2<tm1.1Mrub>	targeted mutation 1.1, Marcelo Rubinstein	9	Drd2<loxP>	Targeted	Conditional ready, No functional change	Germline	behavior | endocrine/exocrine | growth/size/body | homeostasis | nervous system | renal/urinary		
+MGI:5431831	Drd2<tm3.1Ebo>	targeted mutation 3.1, Emiliana Borrelli	9	D2R<flox>	Targeted	Conditional ready, No functional change	Germline	behavior | homeostasis | nervous system		
+MGI:2178631	Drd4<tm1Dkg>	targeted mutation 1, David K Grandy	7	D4<-> | D4KO | D4R - | Drd4<->	Targeted	Null/knockout	Germline	behavior | homeostasis | nervous system | vision/eye		
+MGI:2446434	En1<tm2(cre)Wrst>	targeted mutation 2, Wolfgang Wurst	1	En1<Cki> | En1<Cre> | En1-Cre | En1<tm6(cre)Alj>	Targeted	Null/knockout, Recombinase	Germline	nervous system		
+MGI:2447341	Gnaz<tm1Lfb>	targeted mutation 1, Lawrence F Brass	10	Gz alpha(-)	Targeted	Null/knockout, Reporter	Germline	behavior | hematopoietic | homeostasis | integument		
+MGI:2661089	Grk6<tm1.1Mca>	targeted mutation 1.1, Marc G Caron	13	GRK6- | GRK6 KO | GRK6-KO	Targeted	Null/knockout	Germline	behavior | hematopoietic | homeostasis | immune | renal/urinary		
+MGI:5498673	hipr	highper	UN		Chemically induced (ENU)	 	 	behavior | homeostasis		
+MGI:3526529	Homer1<tm1Mhd>	targeted mutation 1, Marlin H Dehoff	13	H1ko	Targeted	Null/knockout	Germline	behavior | endocrine/exocrine | nervous system		
+MGI:3526530	Homer2<tm1Mhd>	targeted mutation 1, Marlin H Dehoff	7	H2ko	Targeted	Null/knockout	Germline	behavior | endocrine/exocrine | nervous system		
+MGI:4329381	Lmo4<Gt(RRO142)Byg>	gene trap RRO142, BayGenomics	3	Lmo4Gt<129> | Lmo4<Gt(pGt2Lxf)1Heb> | Lmo4<Gt(RR0142)Byg> | LmoGt	Gene trapped	Null/knockout, Reporter	Germline	behavior		
+MGI:3767840	Nacc1<tm1Jabl>	targeted mutation 1, J A Blendy	8	Nac1<->	Targeted	Null/knockout, Reporter	Germline	behavior | homeostasis		
+MGI:1933974	Ntrk2<tm2Kln>	targeted mutation 2, Rudiger Klein	13	trkB<lox> | Trkb<lx>	Targeted	Conditional ready, No functional change	Germline	adipose | behavior | cellular | endocrine/exocrine | growth/size/body | homeostasis | liver/biliary | mortality/aging | nervous system		
+MGI:5636741	Oprk1<tm1.1Waca>	targeted mutation 1.1, William A Carlezon Jr	1	KOR<lox>	Targeted	Conditional ready	Germline	behavior		
+MGI:2388673	Oprm1<tm1Loh>	targeted mutation 1, Horace H Loh	10	MOP-KO | MORKO	Targeted	Null/knockout	Germline	behavior | homeostasis | integument | mortality/aging | nervous system		
+MGI:1934020	Per2<tm1Brd>	targeted mutation 1, Allan Bradley	1	mPer2<Brdm1> | mPer2<m> | Per2<Brdm1>	Targeted	Null/knockout	Germline	behavior | cellular | digestive/alimentary | endocrine/exocrine | growth/size/body | homeostasis | integument | mortality/aging | neoplasm | renal/urinary | reproductive | skeleton		
+MGI:2183150	Ppp1r1b<tm1Aaf>	targeted mutation 1, A A Feinberg	11	DARPP32<-> | DARPP-32 KO	Targeted	Null/knockout	Germline	behavior | homeostasis		
+MGI:4830458	Ppp1r1b<tm5.1Pggd>	targeted mutation 5.1, Paul Greengard	11	D32<fl>	Targeted	Conditional ready, No functional change	Germline			
+MGI:4397456	Ppp1r9a<tm1Pggd>	targeted mutation 1, Paul Greengard	6	neurabin<-> | Nrb<->	Targeted	Null/knockout	Germline	behavior | nervous system		
+MGI:2389199	Ppp1r9b<tm1Jfe>	targeted mutation 1, Jian Feng	11	neurabin II<-> | Sp- | spinophilin- | spinophilin 1 | Spl- | Spn-	Targeted	Null/knockout	Germline	behavior | cellular | growth/size/body | homeostasis | nervous system		
+MGI:2386278	Slc6a2<tm1Mca>	targeted mutation 1, Marc G Caron	8	NET<-> | NET KO	Targeted	Null/knockout, Reporter	Germline	behavior | growth/size/body | homeostasis | integument | nervous system		
+MGI:3689434	Slc6a3<tm1.1(cre)Bkmn>	targeted mutation 1.1, Cristina M Backman	13	DATCre | (DAT)::Cre | Dat<IREScre> | Dat<IRES>Cre | DAT-IRES-Cre	Targeted	Recombinase	Germline			
+MGI:3794893	Slc17a8<tm1Selm>	targeted mutation 1, Salah El Mestikawy	10	Vglut3<->	Targeted	Null/knockout	Germline	behavior | hearing/vestibular/ear | nervous system	autosomal dominant nonsyndromic deafness 25 DOID:0110555	
+MGI:2181424	Tg(Drd1a-cre)1Gsc	transgene insertion 1, Gunther Schutz	UN	D1cre	Transgenic	Recombinase	 			
+MGI:3761818	Tg(Drd1a-cre)AGsc	transgene insertion A, Gunther Schutz	UN	D1Cre | dr-1 Cre | Tg(Drd1a-cre)2Gsc	Transgenic	Recombinase	 			
+MGI:3836635	Tg(Drd2-cre)ER44Gsat	transgene insertion ER44, GENSAT Project at Rockefeller University	UN	D2R Cre | Drd2-Cre | ER44 | Tg(Drd2-cre)44Gsat	Transgenic	Recombinase	 			
+MGI:3843608	Tg(Drd2-EGFP)S118Gsat	transgene insertion S118, GENSAT Project at Rockefeller University	UN	BAC D2 EGFP | D2GFP | Drd2-EGFP | Founder Line S118 | Tg(Drd2-EGFP)118Gsat	Transgenic	Reporter	 			
+MGI:5532538	Tg(Penk-cre,-lacZ)1Mini	transgene insertion 1, Liliana Minichiello	UN	BAC-Penk-Cre<tg>	Transgenic	Recombinase	 			
+MGI:5554407	Tg(Slc6a3-icre)9075Gsc	transgene insertion 9075, Gunther Schutz	UN	DATCre | Tg(DAT-iCre)9075Gsc	Transgenic	Recombinase	 			
